@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-My name is <span style="color:green; font-weight: bold;">Kyros</span> (aka <span style="font-style: italic; background: linear-gradient(90deg, #00b300, #009900); color: transparent; -webkit-background-clip: text;">Roshan Yadav</span>)
+My name is <code style="color : blue ">Kyros</code>
+ (aka <span style="font-style: italic; background: linear-gradient(90deg, #00b300, #009900); color: transparent; -webkit-background-clip: text;">Roshan Yadav</span>)
 ================================================================================================================================================
 
 "Exploring Infinite Possibilities Through Artificial Intelligence . 🌠💻
@@ -12,6 +13,7 @@ I’m a developer, AI enthusiast, and space explorer with a passion for coding a
 * 🧠  I'm learning Advanced AI Techniques and Deep Learning
 * 🤝  I'm open to collaborating on Ai
 * ⚡  Passionate about solving real-world problems with technology and pushing the boundaries of what’s possible. 🚀
+*  🎻 Occasionally, I make music too.
 
 ### Skills
 
